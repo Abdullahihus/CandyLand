@@ -1,0 +1,4 @@
+How many letters are in the alphabet? (integer)|26
+What goes up but never comes down? (no spaces, uppercase)|AGE
+What has to be broken before you can use it? one word (no spaces, lowercase)|egg
+The more of this there is, the less you can see? (no space, lowercase)|darkness

@@ -1,0 +1,10 @@
+Player: Alex
+Character Name: tom
+Stamina: 91
+Gold: 0
+Candies: Toxic Taffy, Frosty Fizz, Breezy Butterscotch, Toxic Taffy, Fearsome Fudge, Lucky Licorice, Crimson Crystal, , 
+Player: Bob
+Character Name: jerry
+Stamina: 80
+Gold: 74
+Candies: Toxic Taffy, Lucky Licorice, Fearsome Fudge, Breezy Butterscotch, Toxic Taffy, Crimson Crystal

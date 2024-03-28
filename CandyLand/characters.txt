@@ -1,0 +1,5 @@
+character name|stamina|gold|candies
+bam|80|60|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice,Fearsome Fudge,Toxic Taffy,Breezy Butterscotch,Crimson Crystal
+jam|90|50|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal,Frosty Fizz,Caramel Comet,Toxic Taffy,Bubblegum Blast,Caramel Comet
+jerry|70|100|Toxic Taffy,Frosty Fizz,Lucky Licorice,Caramel Comet,Fearsome Fudge,Bubblegum Blast,Breezy Butterscotch,Toxic Taffy,Crimson Crystal
+tom|100|50|Toxic Taffy,Frosty Fizz,Breezy Butterscotch,Caramel Comet,Toxic Taffy,Fearsome Fudge,Lucky Licorice,Caramel Comet,Crimson Crystal
